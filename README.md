@@ -7,13 +7,13 @@ Initialize the 8-bit computer memory with a program to be executed automatically
 The goal of the project is to have an option of hanging the 8-bit computer on a wall, connect it to a power supply and
 see how a program is executed automatically without manually programming the memory.
 
-![](/assets/computer-on-a-wall.jpeg)
+<img src="/assets/computer-on-a-wall.png" width="400" height="340">
 
 *The picture is lent from this [Reddit thread](https://www.reddit.com/r/beneater/comments/k7yjz6/8bit_build_done_and_hung/).*
 
 ## Setup
 
-The program was tested in the following systems:
+The program was tested with the following systems:
 
 * macOS Big Sur:
   * Arduino Nano:
@@ -47,6 +47,4 @@ Copy the program to the `Arduino` sketchbook folder with the following command:
 $ mkdir ~/Documents/Arduino/program && cp program.ino ~/Documents/Arduino/program
 ```
 
-Connect `Arduino` to a computer, open and upload the sketch:
-
-![](/assets/connect-open-upload.gif)
+Then connect `Arduino` to a computer, open and upload the sketch.
