@@ -2,6 +2,8 @@ Initialize the 8-bit computer memory with a program to be executed automatically
 
 ![](/assets/execution-on-powering.gif)
 
+*This picture is the animated picture, wait for it.*
+
 ## Motivation
 
 The goal of the project is to have an option of hanging the 8-bit computer on a wall, connect it to a power supply and
