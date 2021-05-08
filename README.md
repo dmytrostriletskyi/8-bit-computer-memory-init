@@ -1,4 +1,4 @@
-Initialize the 8-bit computer memory with a program to be executed automatically on powering.
+Initialize the 8-bit computer memory with a program to be executed automatically on powering. This project is small extension of [Ben Eater's computer (SAP-1 architecture)](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU).
 
 ![](/assets/execution-on-powering.gif)
 
