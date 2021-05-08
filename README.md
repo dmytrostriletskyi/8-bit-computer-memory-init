@@ -48,3 +48,15 @@ $ mkdir ~/Documents/Arduino/program && cp program.ino ~/Documents/Arduino/progra
 ```
 
 Then connect `Arduino` to a computer, open and upload the sketch.
+
+### Schema
+
+The wiring schema is illustrated below according to the following matching:
+
+* A1 — the chip right from run or programming mode switch.
+* A2 — the chip right from writting to memory button.
+* A3 — the chip right from resetting computer button.
+* D2-D9 — the chips right from the DIP switches for memory values.
+* D10-D13 — the chip right from the DIP switches for memory address.
+
+![](/assets/schema.png)
